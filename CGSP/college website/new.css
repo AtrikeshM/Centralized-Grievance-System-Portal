@@ -1,0 +1,20 @@
+.header{
+    background: white;
+}
+
+
+
+
+
+.nav{
+    background: rgb(241, 239, 239);
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 100px;
+    background-color: #f5f5f5;
+  }
+  
